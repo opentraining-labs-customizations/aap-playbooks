@@ -8,5 +8,5 @@
 
     - name: APP version
       debug:
-        msg: "{{ app_version }}"
+        msg: "{{ aap_version }}"
 
